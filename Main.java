@@ -8,7 +8,6 @@ public class Main {
     {
         y+=x;
     }
-   
     x++;
 }
 System.out.println(y);
